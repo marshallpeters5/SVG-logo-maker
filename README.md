@@ -19,7 +19,9 @@ Use npm init -y and npm i inquirer in the integrated terminal.
 
 ## Usage
 
-Use node index in the integrated terminal.
+Use node index in the integrated terminal to begin running the application.
+
+MP4 Demo: https://user-images.githubusercontent.com/89714815/235796364-e8fb7cab-9bdc-46b5-8007-65e61420d6c1.mp4
 
 ## License
 
